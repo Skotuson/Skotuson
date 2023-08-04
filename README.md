@@ -1,2 +1,2 @@
-# Hi, I am Skotuson 👉😁👈
-- Theoretical CompSci Student 👨‍🔬 at FIT CTU
+# Hello, I am Skotuson
+- Theoretical CompSci Student 👨‍🔬 at FIT CTU  
